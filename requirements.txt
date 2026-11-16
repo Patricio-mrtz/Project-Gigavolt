@@ -1,0 +1,9 @@
+chromadb>=1.0,<2
+pymongo
+pymysql
+requests
+pypdf
+sentence-transformers
+numpy
+pandas
+matplotlib

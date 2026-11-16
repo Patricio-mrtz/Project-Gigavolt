@@ -1,0 +1,44 @@
+{
+  "prompts": 20,
+  "runs": 1,
+  "successful_queries": 20,
+  "qps": 0.0726,
+  "median_under_5": false,
+  "stages": {
+    "sql": {
+      "P50": 0.1309,
+      "P95": 0.3108,
+      "P99": 0.3115
+    },
+    "mongo": {
+      "P50": 0.0012,
+      "P95": 0.0024,
+      "P99": 0.01
+    },
+    "vector": {
+      "P50": 0.0279,
+      "P95": 0.136,
+      "P99": 0.1457
+    },
+    "retrieval": {
+      "P50": 0.151,
+      "P95": 0.3301,
+      "P99": 0.3418
+    },
+    "llm": {
+      "P50": 13.3572,
+      "P95": 19.0583,
+      "P99": 22.6633
+    },
+    "total": {
+      "P50": 13.4785,
+      "P95": 19.0987,
+      "P99": 22.9923
+    }
+  },
+  "cache": {
+    "before": 2.022,
+    "after": 0.001
+  },
+  "note": "Values transcribed from the final Milestone 6 benchmark screenshot. Re-run on your EC2 instance to generate a fresh results/final_benchmark.json."
+}

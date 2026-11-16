@@ -1,0 +1,20 @@
+1. X-7000 battery failures in heat?
+2. Lithium cell suppliers?
+3. SN-4829 service and warranty?
+4. Failures before SN-4829 latest service?
+5. SN-4829 maintenance timeline?
+6. SN-4829 metadata telemetry warranty?
+7. SN-4829 telemetry vs service?
+8. SN-4829 warranty vs telemetry?
+9. Docs on battery overheating?
+10. High-temp battery failure causes?
+11. X-7000 thermal specs?
+12. Troubleshoot repeated battery faults?
+13. Battery telemetry error codes?
+14. Equipment with battery events?
+15. Overheating telemetry?
+16. SN-4829 service records?
+17. SN-4829 warranty claims?
+18. SN-4829 metadata?
+19. Lithium parts and suppliers?
+20. Battery components and suppliers?
